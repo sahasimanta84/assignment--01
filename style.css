@@ -70,6 +70,10 @@ body {
     text-align: center;
 }
 
+
+
+
+
 .amount {
 
     display: flex;
@@ -140,6 +144,9 @@ hr {
     margin-right: 150px;
 }
 
+
+
+
 .donation {
 
     margin-bottom: 50px;
@@ -202,6 +209,10 @@ hr {
     padding: 30px;
 }
 
+
+
+
+
 .waiting {
 
     display: flex;
@@ -249,6 +260,10 @@ hr {
     padding: 0px 400px;
     margin-top: 50px;
 }
+
+
+
+
 
 .email {
     display: flex;
