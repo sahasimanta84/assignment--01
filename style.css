@@ -50,5 +50,92 @@ body {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
 
+.donate-today {
+
+    font-weight: 900;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 9%;
+
+}
+
+.format1 {
+
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    text-align: center;
+}
+
+.amount {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    margin: 5px;
+
+}
+
+.white-shadow {
+
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin: 100px;
+
+    padding: 10px 20px;
+
+}
+
+#white-shadow-margin {
+
+    margin-left: 100px;
+}
+
+.red-shadow {
+
+    background-color: rgba(255, 215, 215);
+    border-radius: 5px;
+    margin: 100px;
+    padding: 10px 20px;
+
+}
+
+.red-shadow h1 {
+
+    color: rgb(255, 89, 89);
+}
+
+.other-amount {
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+
+.other-amount p {
+
+    font-size: 18px;
+    color: gray;
+    margin-bottom: 10px;
+    margin-right: 150px;
+}
+
+hr {
+
+    color: gray;
+    width: 390px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    font-size: 14px;
+}
+
+.new-button {
+
+    padding: 10px 40px;
+    margin-right: 150px;
 }
