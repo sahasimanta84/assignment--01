@@ -201,3 +201,113 @@ hr {
     margin: 50px 75px 50px 25px;
     padding: 30px;
 }
+
+.waiting {
+
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+
+    width: 50%;
+}
+
+.half-width img {
+
+    width: 78%;
+    padding-left: 45px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.alignment {
+
+    padding: 10px 40px;
+    margin-left: 170px;
+
+}
+
+.format-new {
+
+
+    font-size: 14px;
+    text-align: justify;
+    margin-left: 35px;
+}
+
+.donation-today {
+
+    text-align: center;
+    font-weight: 800;
+}
+
+.format1 {
+
+    color: gray;
+    text-align: center;
+    padding: 0px 400px;
+    margin-top: 50px;
+}
+
+.email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    margin-top: 0px;
+
+}
+
+.write-email {
+    color: white;
+    padding: 100px 150px;
+    border-radius: 5px;
+    background-color: bisque;
+    box-shadow: 5px 5px 5px white;
+}
+
+.write-email input {
+    font-size: 12px;
+    padding: 15px 100px 15px 10px;
+    color: gray;
+    background-color: rgb(218, 218, 218);
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.write-email ::placeholder {
+    color: gray;
+}
+
+.write-email button {
+    color: white;
+    background-color: tomato;
+    font-size: 12px;
+    padding: 15px 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.footer {
+    color: green;
+}
+
+.heading {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.paragraph-footer {
+    text-align: center;
+    color: rgb(212, 212, 212);
+
+}
+
+.color {
+    height: 150px;
+    background-color: black;
+    padding-top: 20px;
+}
