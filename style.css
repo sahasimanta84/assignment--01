@@ -139,3 +139,65 @@ hr {
     padding: 10px 40px;
     margin-right: 150px;
 }
+
+.donation {
+
+    margin-bottom: 50px;
+
+}
+
+.donation-plan {
+
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+
+.columns {
+
+    display: flex;
+    margin: 0;
+
+}
+
+.columns img {
+
+    margin: 25px;
+}
+
+.columns h1 {
+
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.columns {
+
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.first-column {
+    background-color: rgb(237, 245, 246);
+    height: 300px;
+    width: 400px;
+    margin: 50px 25px 50px 75px;
+    padding: 30px;
+}
+
+.second-column {
+    background-color: rgb(255, 238, 238);
+    height: 300px;
+    width: 400px;
+    margin: 50px 25px 50px 25px;
+    padding: 30px;
+}
+
+.third-column {
+    height: 300px;
+    width: 400px;
+    background-color: rgb(255, 244, 214);
+    margin: 50px 75px 50px 25px;
+    padding: 30px;
+}
